@@ -1,5 +1,3 @@
-// ignore_for_file: prefer_const_constructors, prefer_interpolation_to_compose_strings
-
 import 'package:flutter/material.dart';
 import 'listas.dart';
 import 'package:flutter_svg/flutter_svg.dart';
