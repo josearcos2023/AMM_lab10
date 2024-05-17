@@ -104,6 +104,12 @@ flutter:
     - family: OpenSans
       fonts:
         - asset: assets/fonts/OpenSans-VariableFont_wdth,wght.ttf
+    - family: RadioCanada
+      fonts:
+        - asset: assets/fonts/RadioCanadaBig-Italic-VariableFont_wght.ttf
+    - family: Danfo
+      fonts:
+        - asset: assets/fonts/Danfo-Regular-VariableFont_ELSH.ttf
     
   assets: 
     - assets/images/
